@@ -1,6 +1,6 @@
 Power BI Report: DC Burgers Sales Analysis
 ![Alt text](./DC_Burgers_Sales.png)
-![Alt text](./DC_Burgers_Sales.png)
+![Alt text](./Sales_Overview.png)
 ![Alt text](./Customer_Insights.png)
 Overview
 --
